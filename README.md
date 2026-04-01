@@ -15,7 +15,8 @@
   <em>从零到精通，深入理解 AI 编程助手的核心架构与最佳实践</em>
 </p>
 
----
+<img width="2880" height="1558" alt="image" src="https://github.com/user-attachments/assets/39efa7d4-4521-444e-a222-fd0acb756e51" />
+
 
 ## 背景
 
